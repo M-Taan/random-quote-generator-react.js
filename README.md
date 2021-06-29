@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Random quote generator using React.js
+
+API: https://github.com/lukePeavey/quotable
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
